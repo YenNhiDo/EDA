@@ -1,7 +1,8 @@
-# EDA
-EDA on Online Retail Dataset
+# Online Retail Transation Analysis
 
-The Online Retail Dataset is taken from the website: https://archive.ics.uci.edu/ml/datasets/Online+Retail
+Online retail transation analysis on Online Retail Dataset
+
+Data website: https://archive.ics.uci.edu/ml/datasets/Online+Retail
 
 
 **Data Set Information:** 
