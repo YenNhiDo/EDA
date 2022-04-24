@@ -12,10 +12,17 @@ This is a transnational data set which contains all the transactions occurring b
 **Attribute Information:**
 
 _InvoiceNo:_ Invoice number. Nominal, a 6-digit integral number uniquely assigned to each transaction. If this code starts with letter 'c', it indicates a cancellation.
+
 _StockCode:_ Product (item) code. Nominal, a 5-digit integral number uniquely assigned to each distinct product.
+
 _Description:_ Product (item) name. Nominal.
+
 _Quantity:_ The quantities of each product (item) per transaction. Numeric.
+
 _InvoiceDate:_ Invice Date and time. Numeric, the day and time when each transaction was generated.
+
 _UnitPrice:_ Unit price. Numeric, Product price per unit in sterling.
+
 _CustomerID:_ Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
+
 _Country:_ Country name. Nominal, the name of the country where each customer resides.
